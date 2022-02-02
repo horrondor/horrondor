@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @horrondor
+- 👋 Hi, I’m @Raju Bhattarai
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning  
      HTML
