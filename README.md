@@ -5,9 +5,11 @@
      CSS3
      Javascript
      PHP
+     Django
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- rbhattarai525@gmail.com
 
 <!---
 horrondor/horrondor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
