@@ -6,6 +6,7 @@
      Javascript
      PHP
      Django
+     Devops
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
