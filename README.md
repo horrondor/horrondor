@@ -1,11 +1,7 @@
 - 👋 Hi, I’m @Raju Bhattarai
-- 👀 I’m interested in ...
+- 👀 I’m interested in  Devops
 - 🌱 I’m currently learning  
-     HTML
-     CSS3
-     Javascript
-     PHP
-     Django
+   
      Devops
 
 - 💞️ I’m looking to collaborate on ...
