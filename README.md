@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raju Bhattarai
 - 👀 I’m interested in  Devops
 - 🌱 I have already learned basic
--        -Git, Shell scripting, Docker, Linux basic commands.  
+-        -AWS cloud foundational, Git, Shell scripting, Docker, Linux basic commands.  
 - 🌱 I’m currently learning  
    
      Devops(Kubernetes,ansible)
