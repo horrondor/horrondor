@@ -2,7 +2,7 @@
 - 👀 I’m a Devops enthusiasts
 - 🌱 I have already learned basic
 -        -AWS cloud foundational, Git, Shell scripting, Docker, kubernetes,Jenkins,Terraform,Ansible, Linux basic commands.  
-- 🌱 I’m currently learning  Opentofu
+- 🌱 I’m currently learning Sonarqube
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - rbhattarai525@gmail.com
