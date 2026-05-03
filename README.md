@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Raju Bhattarai
-- 👀 I’m a Devops enthusiasts
+- 👀 I’m a Cloud and DevOps enthusiast
 - 🌱 I have already learned basic
 -        -AWS cloud foundational, Git, Shell scripting, Docker, kubernetes,Jenkins,Terraform,Ansible, Linux basic commands, Sonarqube, Prometheus, grafana, alertmanager.  
 - 🌱 I’m currently learning Advanced bash scripting and networking ....
