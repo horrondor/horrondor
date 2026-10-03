@@ -67,7 +67,7 @@ Operating System   → Linux
 Containers         → Docker
 Orchestration      → Kubernetes
 CI/CD              → Jenkins
-IaC                → Terraform
+IaC                → Terraform,OpenTofu
 Configuration      → Ansible
 Monitoring         → Prometheus + Grafana
 Code Quality       → SonarQube
